@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning data visualization, web accessibility and UX/UI Design.
+- 🌱 I’m currently working on / learning data visualization, web accessibility and UX/UI Design.
 - 👯 I’m looking to collaborate on creative full stack projects!
 - 📫 How to reach me: perry.kendall@gmail.com
 - 😄 Pronouns: they/them/theirs
