@@ -4,6 +4,7 @@
 - 👯 I’m looking to collaborate on creative full stack projects!
 - 📫 How to reach me: perry.kendall@gmail.com
 - 😄 Pronouns: they/them/theirs
+- 🥁 Fun facts: I am also a multi-instrumentalist musician, composer and ceramicist! And, I'm a huge coffee, dark chocolate and plant lover. 
 
 
 <h3 align="left">Languages and Tools:</h3>
