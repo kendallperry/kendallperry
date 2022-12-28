@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🧑‍💻 I’m currently working as a Technologist with Strategio!
+- 😄 Pronouns: they/them/theirs
 - 🌳 I’m looking to collaborate on creative Full Stack and/or Front End projects.
 - 📫 How to reach me: perry.kendall@gmail.com
-- 😄 Pronouns: they/them/theirs
+- ☕️ Portfolio: https://kendallperry.github.io/portfolio/
 - 🥁 Fun facts: I am also a multi-instrumentalist musician, composer and ceramicist! And, I'm a huge coffee, dark chocolate and plant lover. 
 
 
