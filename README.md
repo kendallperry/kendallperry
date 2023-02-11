@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑‍💻 I’m currently working as a Mainframe Developer @ TD Bank, and Technologist @ Strategio!
+- 🧑‍💻 I’m currently working as a Full Stack Engineer @ TD Bank, and Technologist @ Strategio!
 - 😄 Pronouns: they/them/theirs
 - 🌳 I’m looking to collaborate on creative Full Stack and/or Front End projects.
 - 📫 How to reach me: perry.kendall@gmail.com
