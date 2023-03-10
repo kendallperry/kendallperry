@@ -5,7 +5,7 @@
 - 🌳 I’m looking to collaborate on creative Full Stack and/or Front End projects.
 - 📫 How to reach me: perry.kendall@gmail.com
 - ☕️ Portfolio: https://kendallperry.github.io/portfolio/
-- 🥁 Fun facts: I am also a multi-instrumentalist musician, composer and ceramicist! And, I'm a huge coffee, dark chocolate and plant lover. 
+- 🥁 Fun facts: I'm a multi-instrumentalist musician, composer and ceramicist! I'm also a coffee, dark chocolate and plant lover. 
 
 
 <h3 align="left">Languages and Tools:</h3>
