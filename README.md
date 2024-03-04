@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🧑‍💻 I’m currently working as a Full Stack Software Engineer @ TD Securities
-- 😄 Pronouns: they/them/theirs
-- 🌳 I’m looking to collaborate on creative Full Stack and/or Front End projects.
+- 🧑‍💻 I’m currently working as a Software Engineer focused on the Front End @ TD Securities
+- 😄 Pronouns: they/he
 - 📫 How to reach me: perry.kendall@gmail.com
 - ☕️ Portfolio: https://kendallperry.github.io/portfolio/
 - 🥁 Fun facts: I'm a multi-instrumentalist musician, composer and ceramicist! I'm also a coffee, dark chocolate and plant lover. 
